@@ -41,18 +41,16 @@ Precision & Recall: Balanced, with an emphasis on recall for identifying churner
 
 ## Key Findings
 
-- Contract Type Matters:
+* Contract Type Matters:
 Customers on month-to-month contracts are far more likely to churn. Unexpectedly, some customers on 2-year contracts begin churning earlier than month-to-month users, suggesting unmet long-term expectations.
-
-- Streaming & Internet Services Contribute to Churn
+* Streaming & Internet Services Contribute to Churn
 Around 290 churned customers were subscribed to both StreamingMovies and InternetService, indicating possible dissatisfaction with bundled service quality.
-
--Tenure is Not a Timeline Substitute
+* Tenure is Not a Timeline Substitute
 Although tenure helps segment users by duration, it fails to provide chronological insights like seasonal churn trends or campaign effects due to the absence of actual dates.
 
-First-Year Drop-Off is High
+** First-Year Drop-Off is High
 A majority of churn happens within the first 12 months, highlighting issues with onboarding, user experience, or expectation-setting.
 
-✅ Conclusion
+## Conclusion
 This project successfully demonstrates how customer churn can be predicted using machine learning techniques. 
 Strong signals from features like contract type and tenure help flag at-risk customers early on.
