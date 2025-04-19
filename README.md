@@ -48,7 +48,7 @@ Around 290 churned customers were subscribed to both StreamingMovies and Interne
 * Tenure is Not a Timeline Substitute
 Although tenure helps segment users by duration, it fails to provide chronological insights like seasonal churn trends or campaign effects due to the absence of actual dates.
 
-** First-Year Drop-Off is High
+** First-Year Drop-Off is High **
 A majority of churn happens within the first 12 months, highlighting issues with onboarding, user experience, or expectation-setting.
 
 ## Conclusion
