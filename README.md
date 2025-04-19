@@ -15,11 +15,11 @@ The dataset used is the Telco Customer Churn dataset, which includes demographic
 Each row represents a unique customer, along with attributes describing their demographics, services subscribed to, contract and billing information, and churn status.
 
 ### Features:
-Demographics: gender, SeniorCitizen, Partner, Dependents
-Customer Tenure & Contract: tenure, Contract, PaperlessBilling, PaymentMethod
-Services: PhoneService, MultipleLines, InternetService, OnlineSecurity, OnlineBackup, StreamingTV, StreamingMovies
-Charges: MonthlyCharges, TotalCharges
-Target Variable: Churn – whether the customer left the company (Yes/No)
+* Demographics: gender, SeniorCitizen, Partner, Dependents
+* Customer Tenure & Contract: tenure, Contract, PaperlessBilling, PaymentMethod
+* Services: PhoneService, MultipleLines, InternetService, OnlineSecurity, OnlineBackup, StreamingTV, StreamingMovies
+* Charges: MonthlyCharges, TotalCharges
+* Target Variable: Churn – whether the customer left the company (Yes/No)
 
 ## Results
 ### Preprocessing:
